@@ -24,7 +24,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 
     # or to create from this modified version of the above starter
-    gatsby new my-default-starter https://github.com/scottwcode/biz-buyer-portal
+    gatsby new my-default-starter https://github.com/scottwcode/gatsby-react-bootstrap-template
     ```
 
 1.  **Start developing.**
